@@ -41,14 +41,14 @@ This project was developed for the **NLP Capstone Project** by **Group 2**:
 
 <div align="center">
 
-| Student Name | Roll Number | Key Focus Areas |
-| :--- | :---: | :--- |
-| **Kshitij Marwah** | `2401201021` | Pipeline Architecture, Calibrated SVM Modeling & UI Engineering |
-| **Dhruv Gupta** | `2401201015` | Text Preprocessing, Regex Sanitization & Tokenization Pipelines |
-| **Harshit Malik** | `2401201031` | Exploratory Data Analysis, Corpus Statistics & Visualization |
-| **Athira Joy** | `2401201018` | Model Benchmarking, Threshold Tuning & Confusion Matrix Analysis |
-| **Piyush Vats** | `2401201025` | Feature Vectorization (TF-IDF N-grams) & Keyword Signal Ranking |
-| **Rohan Gopal Das** | `2401201014` | Batch Prediction System, Model Serialization & Documentation |
+| Student Name | Roll Number |
+| :--- | :---: |
+| **Kshitij Marwah** | `2401201021` |
+| **Dhruv Gupta** | `2401201015` |
+| **Harshit Malik** | `2401201031` |
+| **Athira Joy** | `2401201018` |
+| **Piyush Vats** | `2401201025` |
+| **Rohan Gopal Das** | `2401201014` |
 
 </div>
 
